@@ -15,7 +15,8 @@
 ![Screenshot 2023-09-17 014745](https://github.com/Riomartin88/MOVIEVERE/assets/71516928/5cb7b488-1ee0-4af9-a1d1-88e9dbb8b6ef)
 
 
-![Screenshot 2023-09-17 015536](https://github.com/Riomartin88/MOVIEVERE/assets/71516928/9c401414-770e-43b0-be6d-7df9dcc195a2)
+![Screenshot 2023-09-17 015822](https://github.com/Riomartin88/MOVIEVERE/assets/71516928/608c9c1f-1ea5-43fe-996c-c54d901f1fee)
+
 
 
 link to the website: https://movies-mod.vercel.app/movie/406
