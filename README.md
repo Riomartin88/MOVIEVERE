@@ -19,4 +19,4 @@
 
 
 
-link to the website: https://movies-mod.vercel.app/movie/406
+link to the website: https://movies-mod.vercel.app/
